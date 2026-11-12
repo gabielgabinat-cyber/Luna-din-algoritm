@@ -1,0 +1,10 @@
+{
+  "name": "Luna din Algoritm – Fereastra ciobită",
+  "short_name": "Luna",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#061724",
+  "theme_color": "#071b2a",
+  "description": "Spațiul vizual al proiectului Luna din Algoritm."
+}
