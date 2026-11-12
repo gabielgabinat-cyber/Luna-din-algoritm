@@ -1,1 +1,1 @@
-# Luna--din-algoritm
+# Luna-din-algoritm
